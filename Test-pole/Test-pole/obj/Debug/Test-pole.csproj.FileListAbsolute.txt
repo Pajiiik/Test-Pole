@@ -1,0 +1,10 @@
+G:\PRG\Test-pole\Test-pole\bin\Debug\Test-pole.exe.config
+G:\PRG\Test-pole\Test-pole\bin\Debug\Test-pole.exe
+G:\PRG\Test-pole\Test-pole\bin\Debug\Test-pole.pdb
+G:\PRG\Test-pole\Test-pole\obj\Debug\Test-pole.csprojAssemblyReference.cache
+G:\PRG\Test-pole\Test-pole\obj\Debug\Test_pole.Form1.resources
+G:\PRG\Test-pole\Test-pole\obj\Debug\Test_pole.Properties.Resources.resources
+G:\PRG\Test-pole\Test-pole\obj\Debug\Test-pole.csproj.GenerateResource.cache
+G:\PRG\Test-pole\Test-pole\obj\Debug\Test-pole.csproj.CoreCompileInputs.cache
+G:\PRG\Test-pole\Test-pole\obj\Debug\Test-pole.exe
+G:\PRG\Test-pole\Test-pole\obj\Debug\Test-pole.pdb
